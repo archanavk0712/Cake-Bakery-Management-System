@@ -150,7 +150,7 @@ echo "("."by resturent".")";
         <script src="vendors/jquery-ui/jquery-ui.min.js"></script>
         <script src="vendors/lightbox/simpleLightbox.min.js"></script>
         <!--gmaps Js-->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+        <script src="https://dbbacdf554584c66a0413e3c3e0914bd"></script>
         <script src="js/gmaps.min.js"></script>
         <script src="js/map-active.js"></script>
         
